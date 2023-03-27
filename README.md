@@ -7,7 +7,7 @@ Quail On Fire: Changing fire regimes may benefit mountain quail in fire-adapted 
 Abstract
 
 Background
-FAQ1ire-adapted forests in western North America are experiencing rapid changes to fire regimes that are outside the range of historic norms. Some habitat-specialist species have been negatively impacted by increases in large, high-severity fire, yet, the responses of many species to fire, especially at longer time scales, remain ambiguous. We studied the response of a widely distributed species, the mountain quail (Oreortyx pictus), to wildfire across the Sierra Nevada of California, because its habitat selection patterns provided an opportunity to evaluate potentially contrasting responses among habitat specialists.
+Fire-adapted forests in western North America are experiencing rapid changes to fire regimes that are outside the range of historic norms. Some habitat-specialist species have been negatively impacted by increases in large, high-severity fire, yet, the responses of many species to fire, especially at longer time scales, remain ambiguous. We studied the response of a widely distributed species, the mountain quail (Oreortyx pictus), to wildfire across the Sierra Nevada of California, because its habitat selection patterns provided an opportunity to evaluate potentially contrasting responses among habitat specialists.
 
 
 Results
